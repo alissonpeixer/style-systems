@@ -1,7 +1,9 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/913619847240364031/915460442665660426/Untitled-2-Recovrered.png)](https://alissonpeixer.github.io/)
+[![MasterHead](https://media.discordapp.net/attachments/902734948270759937/1013087303775817908/BannerAlisson.png)](https://alissonpeixer.github.io/)
 
-<hr>
+<hr><br>
 
 <h1  align="center" >My Configurations</h1>
 
-Hello, this repository is meant to shere my systems configurations!
+<p align="center">
+  Hello, this repository is meant to shere my systems configurations!
+</p>
